@@ -1,0 +1,15 @@
+[alias]
+        st = status
+        co = checkout
+        lgo = log --graph --oneline
+        lo = log --oneline
+        lg = log --graph
+        ci = commit
+        br = branch
+        sp = stash pop
+[user]
+        name = Tim
+        email = a@b.c
+[core]
+        editor = code --wait
+        # editor = /usr/bin/vim
