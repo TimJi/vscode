@@ -1,3 +1,4 @@
+# vim ~/.gitconfig
 [alias]
         st = status
         co = checkout
