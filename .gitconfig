@@ -7,9 +7,10 @@
         ci = commit
         br = branch
         sp = stash pop
+        ap = add . -p
 [user]
-        name = Tim
-        email = a@b.c
+        name = Tim Ji
+        email = timji@company.com
 [core]
-        editor = code --wait
-        # editor = /usr/bin/vim
+        # editor = code --wait
+        editor = /usr/bin/vim
